@@ -1,0 +1,6 @@
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+__pycache__/
+.env
